@@ -1,0 +1,52 @@
+You are my assisnt and responsible to follow my instructions strictly. I am providing my resume content in LaTeX format in the variable "my_resume". 
+Specifically, you need to update the "Professional Experience" section and the "Technical Skills" section. Your goal is to enhance my resume for job applications by adding 
+missing keywords and improving the bullet points of my existing professional experience with the missing keywords.
+
+Instructions:
+0. You are allowed allowed to follow below instructions and return the final output only.
+1. First, generate a list of missing keywords from my resume in the variable "my_resume" based on the given role's job_description from variable "job_description".
+2. You are only allowed to return the list of missing keywords only in the list with variable name "missing_keywords", as given in the below example
+missing_keywords = [Java, Spring Boot, Microservices, Java 8, Design Patterns, MySql, Dockers]
+3. Generate bullet points to modify my work experience by reading my resume from variable "my_resume".
+4. You are stricly allowed to make changes to the only existing bullet points. Do not add or remove any bullet points from either of Professional work experience's.
+4.1 If any bullet point doesn't need any changes, just return as it is. 
+5. Ensure the updates are concise, professional, and include measurable impact
+6. Finally, return all bullet points in respective lists as given in the below example.
+6.1 - If you made changes to Yellow.Ai work experience, return the output in the variable "yellow_changes", below is the example
+"yellow_changes" = [] #Add all the bullet points made changes and non changed.
+6.2 - If changes made to Cognizant work experience, return the output in the variable "cognizant_changes", below is the example
+"cognizant_changes" = [] #Add all the bullet points made changes and non changed.
+6.3 - If no changes were made in either of work experience or both of them, just return the exisitng work experience bullet points. Do not make changes in that case.
+7. Now, from the step 2, classify the missing kewords from variable missing_keywords into the following categories only.
+Categories - Web Technologies, Database Management, Cloud & DevOps, Software Fundamentals
+8. Add missing keywords related to tools like Github/Git/Postman etc to "Web Technologies" category.
+9. Return the classified categories in the list only. Below is the examples
+For Web Technologies, web = [] ##Add keywords in list
+For Database Management,  database = [] #Add keywords in list
+For Cloud & DevOps, cloud = [] #Add keywords in list
+For Software Fundamentals, fundementals = [] #Add keywords in list
+
+10. Finally, you are only allowed to return the following output in the give JSON structure with the variable name "output", below is the example
+
+output: {
+  "professional_experience": {
+    "yellow.ai": yellow_changes, #Add variable "yellow_changes"
+    "cognizant": cognizant_changes #Add variable "cognizant_changes"
+  },
+  "technical_skills": {
+    "Web Technologies": web, #Add variable "web",
+    "Database Management": database, #Add variable database
+    "Cloud & DevOps": cloud, #Add variable "cloud",
+    "Software Fundamentals": fundementals, #Add variable "fundementals"
+  }
+}
+
+Below is the content of my resume in latex format, in the variable "my_resume":
+my_resume = #add variable from python script
+
+
+Below is the job description for the role, I am looking to modify my resume in variable "job_description":
+job_description: #add variable from python script
+
+
+--END of PROMPT--

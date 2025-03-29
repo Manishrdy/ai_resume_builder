@@ -1,0 +1,47 @@
+Description
+
+Amazon Selection and Catalog Systems (ASCS) builds the systems that host and run the world’s largest e-commerce product catalog. Within this organization, the Starfish Studio Model Services (SSMS) team is redefining prompt experimentation, metadata refinement, and LLM evaluation to improve Amazon product catalog data quality, automation, and workflow efficiency. We focus on reinforcement learning, automation, and AI-driven experimentation to build a unified hub for optimizing prompt generation and catalog enrichment at scale.
+
+Key Job Responsibilities
+
+As a Software Development Engineer (SDE) in SSMS, you will develop distributed systems powered by LLMs and multi-modal ML models to enhance prompt experimentation, metadata refinement, and catalog enrichment. Build GenAI-driven solutions that improves prompt quality and automation. Design AI-driven workflows for both structured/unstructured data to enhance prompt engineering and LLM evaluation. Partner with scientists and AI experts to integrate cutting-edge advancements in Generative AI, LLM, reinforcement learning, and automation. Develop systems that reduce operational friction and streamline workflow integrations for prompt testing, metadata refinement, and reinforcement learning-based improvements.
+
+The ideal candidate will have distributed systems, high-scale software service design and implementation, and agile/continuous software delivery experience. You are a Software Development Engineer who enjoys owning software services, is customer-centric, and values delivering software with high quality.
+
+Key job responsibilities
+
+As a Software Development Engineer (SDE) in SSMS, you will develop distributed systems powered by LLMs and multi-modal ML models to enhance prompt experimentation, metadata refinement, and catalog enrichment. Build GenAI-driven solutions that improves prompt quality and automation. Design AI-driven workflows for both structured/unstructured data to enhance prompt engineering and LLM evaluation. Partner with scientists and AI experts to integrate cutting-edge advancements in Generative AI, LLM, reinforcement learning, and automation. Develop systems that reduce operational friction and streamline workflow integrations for prompt testing, metadata refinement, and reinforcement learning-based improvements.
+
+The ideal candidate will have distributed systems, high-scale software service design and implementation, and agile/continuous software delivery experience. You are a Software Development Engineer who enjoys owning software services, is customer-centric, and values delivering software with high quality.
+
+About The Team
+
+We are seeking a rock star Software Engineer to help us build a suite of AI-powered services using the latest technologies that impact systems across the Amazon catalog. Our customers span all Amazon retail businesses, Search, Personalization, and services that rely on high-quality metadata and prompt optimization. Ultimately, our work ensures that AI-driven prompt experimentation and metadata refinement improve catalog accuracy, automation, and data-driven decision-making.
+
+Do you enjoy working on high-impact, high-visibility AI applications? Have you ever wondered about the practical challenges of optimizing prompt experimentation and LLM evaluation? At Starfish Studio, we are innovating new ways to automate prompt generation, refine metadata, and enhance reinforcement learning techniques to improve catalog quality at scale. As the Amazon catalog continuously evolves, we are driving the next generation of AI-driven enrichment and automation to enhance customer experience and operational efficiency.
+
+We are among the few teams at Amazon that routinely dedicate time to research, prototyping, and experimentation. We are a passionate group of AI enthusiasts excited about Generative AI and solving large-scale challenges using LLMs. Come join the fun!
+
+Basic Qualifications
+
+ 3+ years of non-internship professional software development experience
+ 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+ Experience programming with at least one software programming language
+
+Preferred Qualifications
+
+ 3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
+ Bachelor's degree in computer science or equivalent
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $129,300/year in our lowest geographic market up to $223,600/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.
+
+
+Company - Amazon.com Services LLC
+
+Job ID: A2800257
+
+

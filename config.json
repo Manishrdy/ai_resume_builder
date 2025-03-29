@@ -1,0 +1,7 @@
+{
+    "api_key": "Bearer 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",
+    "model_name": "sonar-pro",
+    "job_description_file": "job_description.txt",
+    "resume_file": "resume.tex",
+    "api_endpoint": "https://api.perplexity.ai/chat/completions"
+}
